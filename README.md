@@ -67,4 +67,4 @@ java -jar target/connectify.jar
 
 ---
 
-## Контакты: Email – egor.yaximovich@gmail.com | Telegram – @yahim_yahim
+## Контакты: Email – egor.yaximovich@gmail.com | Telegram – t.me/yahim_yahim
